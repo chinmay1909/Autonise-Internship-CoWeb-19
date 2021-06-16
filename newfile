@@ -1,0 +1,267 @@
+    	<!-- LATEST ITEMS =============================-->
+<section class="item content">
+	<div class="container">
+		<div class="underlined-title">
+			<div class="editContent">
+				<h1 class="text-center latestitems">LATEST ITEMS</h1>
+			</div>
+			<div class="wow-hr type_short">
+				<span class="wow-hr-h">
+				<i class="fa fa-star"></i>
+				<i class="fa fa-star"></i>
+				<i class="fa fa-star"></i>
+				</span>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<div class="productbox">
+					<div class="fadeshop">
+						<div class="captionshop text-center" style="display: none;">
+							<h3>Item Name</h3>
+							<p>
+								 This is a short excerpt to generally describe what the item is about.
+							</p>
+							<p>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-shopping-cart"></i> Purchase</a>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-link"></i> Details</a>
+							</p>
+						</div>
+						<span class="maxproduct"><img src="product\image1.jpg" alt=""></span>
+					</div>
+					<div class="shop-item-details">
+						<a href="#">
+						<h1>Calypso Theme</h1>
+						</a>
+            <span class="shop-item-price">$14.99</span>
+            <button class="cartbtn cartbtn-primary shop-item-button"type="button">ADD TO CART</button>
+          </div>
+					</div>
+				</div>
+			</div>
+    	<!-- /.productbox -->
+			<div class="col-md-4">
+				<div class="productbox">
+					<div class="fadeshop">
+						<div class="captionshop text-center" style="display: none;">
+							<h3>Item Name</h3>
+							<p>
+								 This is a short excerpt to generally describe what the item is about.
+							</p>
+							<p>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-shopping-cart"></i> Purchase</a>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-link"></i> Details</a>
+							</p>
+						</div>
+						<span class="maxproduct"><img src="product\image2.png" height="200" width="300" alt=""></span>
+					</div>
+					<div class="shop-item-details">
+						<a href="#">
+						<h1>FastSell Theme</h1>
+						</a>
+            <span class="shop-item-price">$14.99</span>
+            <button class="cartbtn cartbtn-primary shop-item-button"type="button">ADD TO CART</button>
+          </div>
+				</div>
+			</div>
+			<!-- /.productbox -->
+			<div class="col-md-4">
+				<div class="productbox">
+					<div class="fadeshop">
+						<div class="captionshop text-center" style="display: none;">
+							<h3>Item Name</h3>
+							<p>
+								 This is a short excerpt to generally describe what the item is about.
+							</p>
+							<p>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-shopping-cart"></i> Purchase</a>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-link"></i> Details</a>
+							</p>
+						</div>
+						<span class="maxproduct"><img src="product\image3.jpeg" ></span>
+					</div>
+					<div class="shop-item-details">
+						<a href="#">
+						<h1>Biscaya Theme</h1>
+						</a>
+            <span class="shop-item-price">$14.99</span>
+            <button class="cartbtn cartbtn-primary shop-item-button"type="button">ADD TO CART</button>
+          </div>
+				</div>
+			</div>
+		</div>
+			<div class="row">
+			<div class="col-md-4">
+				<div class="productbox">
+					<div class="fadeshop">
+						<div class="captionshop text-center" style="display: none;">
+							<h3>Item Name</h3>
+							<p>
+								 This is a short excerpt to generally describe what the item is about.
+							</p>
+							<p>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-shopping-cart"></i> Purchase</a>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-link"></i> Details</a>
+							</p>
+						</div>
+						<span class="maxproduct"><img src="product\image4.jpg" height="210" width="400" alt=""></span>
+					</div>
+					<div class="shop-item-details">
+						<a href="#">
+						<h1>Calypso Theme</h1>
+						</a>
+            <span class="shop-item-price">$14.99</span>
+            <button class="cartbtn cartbtn-primary shop-item-button"type="button">ADD TO CART</button>
+          </div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="productbox">
+					<div class="fadeshop">
+						<div class="captionshop text-center" style="display: none;">
+							<h3>Item Name</h3>
+							<p>
+								 This is a short excerpt to generally describe what the item is about.
+							</p>
+							<p>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-shopping-cart"></i> Purchase</a>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-link"></i> Details</a>
+							</p>
+						</div>
+						<span class="maxproduct"><img src="product\image5.jpg" height="230" width="400" alt=""></span>
+					</div>
+					<div class="shop-item-details">
+						<a href="#">
+						<h1>FastSell Theme</h1>
+						</a>
+            <span class="shop-item-price">$14.99</span>
+            <button class="cartbtn cartbtn-primary shop-item-button"type="button">ADD TO CART</button>
+          </div>
+				</div>
+			</div>
+			<!-- /.productbox -->
+			<div class="col-md-4">
+				<div class="productbox">
+					<div class="fadeshop">
+						<div class="captionshop text-center" style="display: none;">
+							<h3>Item Name</h3>
+							<p>
+								 This is a short excerpt to generally describe what the item is about.
+							</p>
+							<p>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-shopping-cart"></i> Purchase</a>
+								<a href="#" class="learn-more detailslearn"><i class="fa fa-link"></i> Details</a>
+							</p>
+						</div>
+						<span class="maxproduct"><img src="product\image6.jpg" height="200" alt=""></span>
+						<div class="shop-item-details">
+						<a href="#">
+						<h1>Biscaya Theme</h1>
+						</a>
+            <span class="shop-item-price">$14.99</span>
+            <button class="cartbtn cartbtn-primary shop-item-button"type="button">ADD TO CART</button>
+          </div>
+					</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	<div class="col-md-4">
+		<div class="productbox">
+			<div class="fadeshop">
+				<div class="captionshop text-center" style="display: none;">
+					<h3>Item Name</h3>
+					<p>
+						 This is a short excerpt to generally describe what the item is about.
+					</p>
+					<p>
+						<a href="#" class="learn-more detailslearn"><i class="fa fa-shopping-cart"></i> Purchase</a>
+						<a href="#" class="learn-more detailslearn"><i class="fa fa-link"></i> Details</a>
+					</p>
+				</div>
+				<span class="maxproduct"><img src="product\image7.jpg" alt=""></span>
+			</div>
+			<div class="shop-item-details">
+						<a href="#">
+						<h1>Calypso Theme</h1>
+						</a>
+            <span class="shop-item-price">$14.99</span>
+            <button class="cartbtn cartbtn-primary shop-item-button"type="button">ADD TO CART</button>
+          </div>
+		</div>
+	</div>
+
+	<div class="col-md-4">
+		<div class="productbox">
+			<div class="fadeshop">
+				<div class="captionshop text-center" style="display: none;">
+					<h3>Item Name</h3>
+					<p>
+						 This is a short excerpt to generally describe what the item is about.
+					</p>
+					<p>
+						<a href="#" class="learn-more detailslearn"><i class="fa fa-shopping-cart"></i> Purchase</a>
+						<a href="#" class="learn-more detailslearn"><i class="fa fa-link"></i> Details</a>
+					</p>
+				</div>
+				<span class="maxproduct"><img src="product\image8.jpg" alt=""></span>
+			</div>
+			<div class="shop-item-details">
+						<a href="#">
+						<h1>FastSell Theme</h1>
+						</a>
+            <span class="shop-item-price">$14.99</span>
+            <button class="cartbtn cartbtn-primary shop-item-button"type="button">ADD TO CART</button>
+          </div>
+		</div>
+	</div>
+	<!-- /.productbox -->
+	<div class="col-md-4">
+		<div class="productbox">
+			<div class="fadeshop">
+				<div class="captionshop text-center" style="display: none;">
+					<h3>Item Name</h3>
+					<p>
+						 This is a short excerpt to generally describe what the item is about.
+					</p>
+					<p>
+						<a href="#" class="learn-more detailslearn"><i class="fa fa-shopping-cart"></i> Purchase</a>
+						<a href="#" class="learn-more detailslearn"><i class="fa fa-link"></i> Details</a>
+					</p>
+				</div>
+				<span class="maxproduct"><img src="product\image9.jpg" height="200" alt=""></span>
+				<div class="shop-item-details">
+						<a href="#">
+						<h1>Biscaya Theme</h1>
+						</a>
+            <span class="shop-item-price">$14.99</span>
+            <button class="cartbtn cartbtn-primary shop-item-button"type="button">ADD TO CART</button>
+          </div>
+	
+
+</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+
+</section>
+<section class="cartcontainer content-section">
+      <h2 class="section-header">CART</h2>
+      <div class="cart-row">
+        <span class="cart-item cart-header cart-column">ITEM</span>
+        <span class="cart-price cart-header cart-column">PRICE</span>
+        <span class="cart-quantity cart-header cart-column">QUANTITY</span>
+      </div>
+      <div class="cart-items">
+      </div>
+      <div class="cart-total">
+        <strong class="cart-total-title">Total</strong>
+        <span class="cart-total-price">$0</span>
+        </div>
+      <button class="cartbtn cartbtn-primary cartbtn-purchase" type="button">PURCHASE</button>
+    </section>
